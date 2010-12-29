@@ -1,0 +1,10 @@
+An simple editor
+
+Download ruby-gnome2.
+ http://sourceforge.net/projects/ruby-gnome2/files/
+
+== Install
+
+  % ruby extconf.rb
+  % make
+  % sudo make install
